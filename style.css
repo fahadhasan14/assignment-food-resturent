@@ -1,0 +1,103 @@
+body {
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto Slab", serif;
+  margin: 0;
+  padding: 0;
+}
+.color {
+  color: Red;
+}
+h1 {
+  font-size: 60px;
+}
+.sec-wraper {
+  display: flex;
+}
+.sec1-half {
+  width: 50%;
+  margin-left: 5%;
+  margin-top: 10%;
+}
+.sec1-half img {
+  width: 80%;
+  height: 100%;
+  margin-right: 20%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(red, rgb(218, 101, 188));
+  padding: 15px 45px;
+  color: white;
+  font-size: 25px;
+  font-weight: 700;
+  border-radius: 60px;
+}
+
+#background-img {
+  background-image: url("images/shapes/Frame\ 57.jpg");
+  background-repeat: no-repeat;
+  height: 10%;
+  margin-top: 150px;
+  background-size: 100%;
+  margin-bottom: 2px;
+}
+#middle-img img {
+  width: 65%;
+  height: 82.5%;
+  margin-left: 20%;
+  padding: 50px;
+  background-size: 300px 200px;
+  margin-bottom: -50px;
+}
+#middle-para {
+  width: 55%;
+  margin-right: 10%;
+}
+.button {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(185, 198, 212), rgb(9, 159, 247));
+  padding: 15px 45px;
+  color: white;
+  font-size: 25px;
+  font-weight: 700;
+  border-radius: 60px;
+  margin-top: 50px;
+}
+#my-recepies {
+  height: -100px;
+  line-height: 400%;
+}
+
+.recepies {
+  width: 50%;
+  font-weight: 700;
+  margin: auto;
+  text-align: center;
+}
+
+.head {
+  margin-top: auto;
+}
+.colom-sec {
+  height: 100%;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+  margin-top: 10px;
+}
+.colom {
+  margin: 5%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+  margin-top: 5px;
+}
+.colom img {
+  width: 100%;
+  border-radius: 10px;
+}
+.food-pic {
+  flex-basis: 31%;
+  border-radius: 10px;
+}
