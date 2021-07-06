@@ -43,7 +43,7 @@ h1 {
 }
 #middle-img img {
   width: 65%;
-  height: 82.5%;
+  height: 80%;
   margin-left: 20%;
   padding: 50px;
   background-size: 300px 200px;
@@ -80,7 +80,7 @@ h1 {
 }
 .colom-sec {
   height: 100%;
-  width: 80%;
+  width: 90%;
   margin: auto;
   text-align: center;
   padding-top: 100px;
@@ -98,6 +98,11 @@ h1 {
   border-radius: 10px;
 }
 .food-pic {
+  width: 50px;
+  padding: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
   flex-basis: 31%;
-  border-radius: 10px;
+  border-radius: 30px;
+  box-shadow: 1px 1px 1px 1px gray;
 }
